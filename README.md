@@ -8,7 +8,7 @@ Eu sou Bruno Roberto, sou Desenvolvedor Senior do Serviço Geológico do Brasil,
 [![Youtube: loianegroner](https://img.shields.io/badge/-Youtube-red?style=flat-square&logo=Youtube&logoColor=white&link=http://youtube.com/BrunoRobertoCunha)](http://youtube.com/BrunoRobertoCunha)
 ____
 ## Certificação
-![Itil V3](https://img.shields.io/badge/-Itil-3776AB?style=flat-square&logo=Itil%20V3)
+![Itil V3](https://img.shields.io/badge/Itil%20V3-3776AB?style=flat-square&logo=Itil%20V3)
 
 
 ____
