@@ -7,6 +7,11 @@ Eu sou Bruno Roberto, sou Desenvolvedor Senior do Serviço Geológico do Brasil,
 [![Linkedin: loiane](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/brunorfcunha/)](https://www.linkedin.com/in/brunorfcunha/)
 [![Youtube: loianegroner](https://img.shields.io/badge/-Youtube-red?style=flat-square&logo=Youtube&logoColor=white&link=http://youtube.com/BrunoRobertoCunha)](http://youtube.com/BrunoRobertoCunha)
 ____
+## Certificação
+![Itil V3](https://img.shields.io/badge/-Itil-3776AB?style=flat-square&logo=Itil%20V3)
+
+
+____
 ## Tecnologias
 Backend: 
 ![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java)
@@ -26,6 +31,7 @@ Database:
 ![Microsoft SQL Server Badge](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?logo=microsoftsqlserver&logoColor=fff&style=flat)
 ![PostgreSQL Badge](https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=fff&style=flat)
 ![MySQL Badge](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=fff&style=flat)
+![Oracle Badge](https://img.shields.io/badge/Oracle-F80000?logo=oracle&logoColor=fff&style=flat)
 
 Tools:
 ![Docker Badge](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=fff&style=flat)
