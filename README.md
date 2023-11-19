@@ -3,9 +3,8 @@
 Eu sou Bruno Roberto, sou Desenvolvedor Senior do Serviço Geológico do Brasil, e trabalho com tecnologia desde 2004
 
 
-[![Twitter Follow](https://img.shields.io/twitter/follow/BrunoRoberto?style=social)](https://twitter.com/BrunoRoberto)
-[![Linkedin: loiane](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/brunorfcunha/)](https://www.linkedin.com/in/brunorfcunha/)
-[![Youtube: loianegroner](https://img.shields.io/badge/-Youtube-red?style=flat-square&logo=Youtube&logoColor=white&link=http://youtube.com/BrunoRobertoCunha)](http://youtube.com/BrunoRobertoCunha)
+[![Linkedin: brunorfcunha](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/brunorfcunha/)](https://www.linkedin.com/in/brunorfcunha/)
+[![Youtube: BrunoRobertoCunha](https://img.shields.io/badge/-Youtube-red?style=flat-square&logo=Youtube&logoColor=white&link=http://youtube.com/BrunoRobertoCunha)](http://youtube.com/BrunoRobertoCunha)
 ____
 ## Certificação
 ![Itil V3](https://img.shields.io/badge/Itil%20V3-3776AB?style=flat&logo=Itil%20V3)
