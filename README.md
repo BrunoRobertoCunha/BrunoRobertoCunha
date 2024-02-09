@@ -8,12 +8,13 @@ Eu sou Bruno Roberto, sou Desenvolvedor Senior do Serviço Geológico do Brasil,
 ____
 ## Certificação
 ![Itil V3](https://img.shields.io/badge/Itil%20V3-3776AB?style=flat&logo=Itil%20V3)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
 
 
 ____
 ## Tecnologias
 Backend: 
-![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
 ![Spring Badge](https://img.shields.io/badge/Spring-6DB33F?logo=spring&logoColor=fff&style=flat)
 ![PHP Badge](https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=fff&style=flat)
 ![Python Badge](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff&style=flat)
