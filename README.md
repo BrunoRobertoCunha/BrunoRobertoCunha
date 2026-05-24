@@ -19,7 +19,7 @@ ____
 IA & Agentes Autônomos:
 ![Google Gemini](https://img.shields.io/badge/Google%20Gemini-8E75B2?logo=googlegemini&logoColor=fff&style=flat)
 ![Anthropic Claude](https://img.shields.io/badge/Anthropic%20Claude-D97757?logo=anthropic&logoColor=fff&style=flat)
-![Antigravity](https://img.shields.io/badge/Antigravity%20AI-1A73E8?style=flat)
+![Antigravity 2.0](https://img.shields.io/badge/Antigravity%202.0-1A73E8?style=flat)
 ![Claude Code](https://img.shields.io/badge/Claude%20Code-D97757?style=flat)
 ![Google Omni](https://img.shields.io/badge/Google%20Omni-4285F4?logo=google&logoColor=fff&style=flat)
 ![ComfyUI](https://img.shields.io/badge/ComfyUI-000000?style=flat)
