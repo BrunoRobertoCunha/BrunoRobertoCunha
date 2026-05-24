@@ -1,7 +1,9 @@
 ### Olá mundo !
 
-Eu sou Bruno Roberto, sou Desenvolvedor Senior do Serviço Geológico do Brasil, e trabalho com tecnologia desde 2004
+Eu sou Bruno Roberto, Desenvolvedor Sênior do Serviço Geológico do Brasil, e trabalho com tecnologia desde 2004. 
+Atualmente, tenho um foco especial em **Inteligência Artificial**, com expertise na **criação de Agentes Autônomos** (como minha assistente *Mika*) e na integração de aplicações com as LLMs mais poderosas do mercado.
 
+🧠 **Especialista em IA & Agentes:** Utilizo no meu dia a dia as ferramentas mais avançadas de IA, desenvolvendo fluxos complexos e automatizados. Tenho vasta experiência com **Google Gemini, Anthropic Claude, Antigravity, Claude Code, Google Omni** e **ComfyUI**.
 
 [![Linkedin: brunorfcunha](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/brunorfcunha/)](https://www.linkedin.com/in/brunorfcunha/)
 [![Youtube: BrunoRobertoCunha](https://img.shields.io/badge/-Youtube-red?style=flat-square&logo=Youtube&logoColor=white&link=http://youtube.com/BrunoRobertoCunha)](http://youtube.com/BrunoRobertoCunha)
@@ -13,6 +15,16 @@ ____
 
 ____
 ## Tecnologias
+
+IA & Agentes Autônomos:
+![Google Gemini](https://img.shields.io/badge/Google%20Gemini-8E75B2?logo=googlegemini&logoColor=fff&style=flat)
+![Anthropic Claude](https://img.shields.io/badge/Anthropic%20Claude-D97757?logo=anthropic&logoColor=fff&style=flat)
+![Antigravity](https://img.shields.io/badge/Antigravity%20AI-1A73E8?style=flat)
+![Claude Code](https://img.shields.io/badge/Claude%20Code-D97757?style=flat)
+![Google Omni](https://img.shields.io/badge/Google%20Omni-4285F4?logo=google&logoColor=fff&style=flat)
+![ComfyUI](https://img.shields.io/badge/ComfyUI-000000?style=flat)
+![Agentic AI](https://img.shields.io/badge/Agentic%20AI-4B0082?style=flat)
+
 Backend: 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
 ![Spring Badge](https://img.shields.io/badge/Spring-6DB33F?logo=spring&logoColor=fff&style=flat)
@@ -50,6 +62,7 @@ Tools:
 
 IDEs:
 ![Visual Studio Code Badge](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?logo=visualstudiocode&logoColor=fff&style=flat)
+![Antigravity IDE](https://img.shields.io/badge/Antigravity%20IDE-1A73E8?style=flat)
 ![Apache NetBeans IDE Badge](https://img.shields.io/badge/Apache%20NetBeans%20IDE-1B6AC6?logo=apachenetbeanside&logoColor=fff&style=flat)
 ![Eclipse IDE Badge](https://img.shields.io/badge/Eclipse%20IDE-2C2255?logo=eclipseide&logoColor=fff&style=flat)
 
